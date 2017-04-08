@@ -1,7 +1,7 @@
-renfufei.github.io
+jiangdou.github.io
 ==================
 
-[铁锚的技术博客](http://renfufei.github.io)
+[jiangdou技术博客](http://jiangdou.github.io)
 
 
 ## 想让你的GitHub页面开启https?
